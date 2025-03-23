@@ -5,8 +5,14 @@
     "creators": [],
     "verifier": "Void Games",
     "verification": "https://youtu.be/v5-Zl53gLmU?si=faPrj4MIzNnwrxRN",
-    "percentToQualify": "50",
+    "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+        "user": "pixelfactorial",
+        "link": "https://cdn.discordapp.com/attachments/1352370771040931882/1352370771330072687/2025-03-20_20-58-11.mp4?ex=67e067ed&is=67df166d&hm=d39bb981a97e53007e5d7f4540e8e171d811ce4713d2a28d634c897ab838ec14&",
+        "percent": 100,
+        "hz": 20
+        }
     ]
 }
