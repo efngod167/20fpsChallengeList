@@ -12,7 +12,8 @@
             "user": "pixel",
             "link": "https://youtu.be/bqDa6UkK0co?si=ml7cWaFvzIdtnyhG",
             "percent": 100,
-            "hz": 20
+            "hz": 20,
+            "mobile": true
         }
     ]
 }
